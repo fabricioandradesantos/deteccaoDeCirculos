@@ -14,9 +14,9 @@ Detecção de circulos é uma técnica de processamento de imagem e visão compu
 ## Implementação baseada no [OpenCV - Hough Circle Transform](https://docs.opencv.org/3.4/d4/d70/tutorial_hough_circle.html)
 
 ## Imagens do app
-<a href="url"><img src="https://github.com/fabriicioa/deteccaoDeCirculos/blob/master/img1.png" align="left" height="480" width="260" ></a>
-<a href="url"><img src="https://github.com/fabriicioa/deteccaoDeCirculos/blob/master/img2.png" align="center" height="480" width="300" ></a>
-<a href="url"><img src="https://github.com/fabriicioa/deteccaoDeCirculos/blob/master/img3.png" align="right" height="480" width="260" ></a>
+<a href="url"><img src="https://github.com/fabriicioa/deteccaoDeCirculos/blob/master/Arquivos/img1.png" align="left" height="480" width="260" ></a>
+<a href="url"><img src="https://github.com/fabriicioa/deteccaoDeCirculos/blob/master/Arquivos/img2.png" align="center" height="480" width="300" ></a>
+<a href="url"><img src="https://github.com/fabriicioa/deteccaoDeCirculos/blob/master/Arquivos/img3.png" align="right" height="480" width="260" ></a>
 
 ## Contribua
 
