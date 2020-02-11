@@ -1,10 +1,6 @@
 # Detecçao de Circulos
 ## Detection Circles
 
-Detecção de circulos é uma técnica de processamento de imagem e visão computacional para indentificar circulos contidos em uma imagem. Neste projeto utilizo técnicas de PDI como, mediaBlue, imagem em escala de cinza e a transformação de círculo Hough (CHT) que é uma técnica básica de extração de recursos usada para detectar círculos em imagens.
-
-[Wikipédia](https://en.wikipedia.org/wiki/Circle_Hough_Transform)
-
 ### Biblioteca utilizada para o processamento digital de imagens [OpenCV](https://opencv.org/) (Versão 3.4.3)
 
 ### [Laplacian Edge Detection](https://github.com/fabriicioa/laplaceDeteccaoDeBordas)
